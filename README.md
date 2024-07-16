@@ -1,2 +1,1 @@
-Online Payment Fraud Detection Using Machine Learning
-Mini Project
+Online Payment Fraud Detection using Machine Learning
